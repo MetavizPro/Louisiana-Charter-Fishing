@@ -39,8 +39,6 @@ This project demonstrates my expertise in developing feature-rich, user-centered
 
 ## 👨‍💻 About the Developer
 
-## 👨‍💻 About the Developer
-
 At Metaviz, we have a team of experienced *Brilliant Directories* developers. We specialize in creating responsive, feature-rich directory platforms like *Louisiana Charter Fishing*, where every functionality — from expert booking to user-friendly navigation — is optimized for user satisfaction and business success.
 
 If you’re interested in building a custom directory platform to help users connect with your services, let’s connect and make it happen!
